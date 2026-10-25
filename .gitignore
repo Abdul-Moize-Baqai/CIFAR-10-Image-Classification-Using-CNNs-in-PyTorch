@@ -1,0 +1,6 @@
+cnn_task_results/
+data/
+*.pth
+*.pt
+__pycache__/
+.venv/
